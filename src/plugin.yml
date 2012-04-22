@@ -3,6 +3,10 @@ main: Counter_Craft.Main
 author: Wolf_2789
 version: 0.1
 commands:
-  cs:
+  cc:
+    description: Counter-Craft Admin.
   b:
+    description: Allows to buy weapons and ammo.
+  e:
+    description: Allows to buy enchantments.
   
