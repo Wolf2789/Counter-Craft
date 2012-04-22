@@ -5,6 +5,8 @@ version: 0.1
 commands:
   cc:
     description: Counter-Craft Admin.
+  h:
+    description: Informations about commands.
   b:
     description: Allows to buy weapons and ammo.
   e:
